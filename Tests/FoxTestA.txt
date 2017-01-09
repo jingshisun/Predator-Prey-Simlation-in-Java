@@ -1,0 +1,3 @@
+F R R
+R F R 
+F B R

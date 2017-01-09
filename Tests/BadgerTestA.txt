@@ -1,0 +1,3 @@
+R R G 
+B B G      
+R R R
